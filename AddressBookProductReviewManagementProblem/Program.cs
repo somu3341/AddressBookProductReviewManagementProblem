@@ -26,7 +26,7 @@ namespace AddressBookProductReviewManagementProblem
                         contacts.Add(new Contacts { FirstName = "Ganesh", LastName = "Aryan", Address = "Manglore", City = "Manglore", State = "KA", Zip = 454332, PhoneNumber = 808789778, Email = "Ganesh@gmail.com" });
                         foreach (var data in contacts)
                         {
-                            Console.WriteLine("FirstName:-" + data.FirstName + " " + "LastName:-" + data.LastName + " " + "Address:-" + data.Address + " " + "City:-" + data.City + " " + "State" + data.State + " " + "Zip:-" + data.Zip + " " + "PhoneNumber:-" + data.PhoneNumber + " " + "Email:-" + data.Email);
+                            Console.WriteLine("FirstName:-"+ data.FirstName + " " + "LastName:-" + data.LastName + " " + "Address:-" + data.Address + " " + "City:-" + data.City + " " + "State" + data.State + " " + "Zip:-" + data.Zip + " " + "PhoneNumber:-" + data.PhoneNumber + " " + "Email:-" + data.Email);
                         }
                         break;
                     case 2:

@@ -8,6 +8,5 @@ namespace AddressBookProductReviewManagementProblem
 {
     public class Operation
     {
-
     }
 }
